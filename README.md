@@ -86,7 +86,11 @@ Available on the [Releases page](https://github.com/Vext-Labs-Inc/sentry-benchma
 
 The Sentry model is **not open-source** — a 78B model with 0% refusal on offensive security topics presents dual-use risks we're not willing to release.
 
-Access is available via API only, with authorized-use verification. Contact us for commercial access.
+Access is available via API only, with authorized-use verification.
+
+- **Website:** [tryvext.com](https://tryvext.com)
+- **Research:** [tryvext.com/research](https://tryvext.com/research)
+- **Request API access:** [tryvext.com](https://tryvext.com)
 
 ---
 
@@ -115,8 +119,10 @@ Every new capability = one protocol cycle = ~$50 + 1-2 days. Full technical deta
 
 ## About VEXT Labs
 
-**VEXT Labs, Inc.** — autonomous AI for offensive & defensive security.
+**[VEXT Labs, Inc.](https://tryvext.com)** — autonomous AI for offensive & defensive security.
 
+- **Website:** [tryvext.com](https://tryvext.com)
+- **Research:** [tryvext.com/research](https://tryvext.com/research)
 - **Platform:** VEXT (autonomous security testing against authorized bug bounty targets)
 - **Model foundry:** Sentry (active), planned: MEDIC (medical), JURIS (legal), AUDIT (financial)
 - **Founder:** Annalea Layton
@@ -125,7 +131,11 @@ Every new capability = one protocol cycle = ~$50 + 1-2 days. Full technical deta
 
 ## Contact
 
-For API access, research collaboration, or press inquiries: open an issue on this repo or reach out via our website.
+For API access, research collaboration, or press inquiries:
+
+- **Website:** [tryvext.com](https://tryvext.com)
+- **Research & benchmarks:** [tryvext.com/research](https://tryvext.com/research)
+- **GitHub:** [@Vext-Labs-Inc](https://github.com/Vext-Labs-Inc) (open an issue on this repo)
 
 ---
 
