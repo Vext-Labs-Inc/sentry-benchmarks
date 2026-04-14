@@ -1,0 +1,18 @@
+{
+  "model": "sentry-78b-v4",
+  "humaneval": {
+    "passed": 164,
+    "total": 164,
+    "score": 100.0
+  },
+  "mmlu": {
+    "correct": 560,
+    "total": 690,
+    "score": 81.15942028985508
+  },
+  "secqa": {
+    "correct": 207,
+    "total": 210,
+    "score": 98.57142857142857
+  }
+}
